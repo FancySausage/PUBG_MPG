@@ -8,6 +8,7 @@ Next, drive without boost on the vehicle on a flat road, and start recording you
 
 
 CODE GUIDE:
+
 setRefuelPixelDifference() assigns how many pixels of the gas guage are filled when a vehicle is refueled.
 
 setSpeed() is in KPH (use average speed of your recorded clip)
